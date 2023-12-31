@@ -40,7 +40,7 @@ class AppTheme {
           shadowColor: MaterialStateProperty.all(Colors.purpleAccent),
           textStyle: MaterialStateProperty.all(
             const TextStyle(
-              fontSize: 18,
+              fontSize: 24,
               fontWeight: FontWeight.bold,
             ),
           ),
